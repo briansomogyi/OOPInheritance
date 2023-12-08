@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPInheritance", "OOPInheritance.csproj", "{7E19D6C4-28B2-46F9-A776-1D04D88BAB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E19D6C4-28B2-46F9-A776-1D04D88BAB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E19D6C4-28B2-46F9-A776-1D04D88BAB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E19D6C4-28B2-46F9-A776-1D04D88BAB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E19D6C4-28B2-46F9-A776-1D04D88BAB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FAB310-D580-4136-9FF1-0F338C328793}
+	EndGlobalSection
+EndGlobal
